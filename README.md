@@ -1,166 +1,99 @@
-<h1 align="center">Hi 👋 I'm Pratham Pimpalikar</h1>
+Create a premium, modern, responsive GitHub Profile README for an AI & Machine Learning student.
 
-<h3 align="center">
-AI & Machine Learning Student • Python Developer • Future AI Engineer
-</h3>
+Theme:
+- Dark Mode
+- Modern UI
+- Professional
+- Clean spacing
+- Side-by-side layout where possible
+- Responsive on GitHub
+- Attractive icons and badges
+- Recruiter-friendly
 
-<p align="center">
-<img src="profile.png" width="220">
-</p>
+GitHub Username:
+Prathampalikar
 
-<p align="center">
+Name:
+Pratham Pimpalikar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Python+Enthusiast;Building+Real+World+AI+Projects;Welcome+to+My+GitHub+Profile!"/>
+Title:
+AI & Machine Learning Student | Python Developer | Future AI Engineer
 
-</p>
+About Me:
+- B.Tech AIML Student
+- Passionate about Artificial Intelligence and Machine Learning
+- Learning Deep Learning, TensorFlow, MLOps and FastAPI
+- Interested in Computer Vision and Data Science
+- Building real-world AI projects
+- Looking for AI/ML Internship opportunities
 
----
+Skills
 
-# 🚀 About Me
+Languages:
+Python, Java, C, HTML, CSS, JavaScript, SQL
 
-🎓 B.Tech AIML Student
+AI / ML:
+TensorFlow
+Scikit-Learn
+OpenCV
+Pandas
+NumPy
+Matplotlib
 
-💻 Passionate about AI, ML & Deep Learning
+Frameworks:
+FastAPI
+Flask
+Streamlit
 
-🌱 Learning
+Database:
+MySQL
+Firebase
 
-- TensorFlow
-- MLOps
-- FastAPI
-- Computer Vision
+Cloud:
+AWS
+Google Cloud
 
-🔭 Working on
+Tools:
+Git
+GitHub
+VS Code
+Jupyter Notebook
+Figma
+Canva
 
+Featured Projects:
 - Smart Mailroom AI
 - Driver Safety AI
 - Interactive Learning Mat
-
-🤝 Looking to collaborate on
-
-Open Source AI Projects
-
-⚡ Fun Fact
-
-I love converting AI ideas into real-world applications.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-
-</a>
-
-<a href="https://github.com/Prathampalikar">
-
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Python](https://skillicons.dev/icons?i=python)
-
-![java](https://skillicons.dev/icons?i=java)
-
-![c](https://skillicons.dev/icons?i=c)
-
-![html](https://skillicons.dev/icons?i=html)
-
-![css](https://skillicons.dev/icons?i=css)
-
-![js](https://skillicons.dev/icons?i=javascript)
-
----
-
-### AI / ML
-
-![tensorflow](https://skillicons.dev/icons?i=tensorflow)
-
-![opencv](https://skillicons.dev/icons?i=opencv)
-
-![pytorch](https://skillicons.dev/icons?i=pytorch)
-
----
-
-### Database
-
-![mysql](https://skillicons.dev/icons?i=mysql)
-
-![firebase](https://skillicons.dev/icons?i=firebase)
-
----
-
-### Tools
-
-![git](https://skillicons.dev/icons?i=git)
-
-![github](https://skillicons.dev/icons?i=github)
-
-![vscode](https://skillicons.dev/icons?i=vscode)
-
-![figma](https://skillicons.dev/icons?i=figma)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Prathampalikar&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prathampalikar&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathampalikar&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=Prathampalikar&theme=tokyonight&row=1)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Prathampalikar&theme=tokyo-night)
-
----
-
-# 🚀 Featured Projects
-
-⭐ Smart Mailroom AI
-
-⭐ Driver Safety AI
-
-⭐ Interactive Learning Mat
-
-⭐ Student Management System
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Prathampalikar&style=for-the-badge">
-
-</p>
-
-<h3 align="center">
-
-⭐ Thanks For Visiting ⭐
-
-</h3>
+- Student Management System
+
+Social Links:
+LinkedIn
+GitHub
+Email
+
+Include:
+
+✔ Animated Typing Header
+✔ Wave Banner
+✔ About Me Section
+✔ Beautiful Tech Stack
+✔ Skill Icons displayed SIDE BY SIDE (NOT one below another)
+✔ GitHub Stats
+✔ GitHub Streak
+✔ Top Languages
+✔ GitHub Trophy
+✔ Contribution Graph
+✔ Visitor Counter
+✔ Featured Projects Cards
+✔ Connect With Me Section
+✔ Footer
+
+Important:
+- Use HTML where necessary for better alignment.
+- Use <p align="center"> and tables for side-by-side sections.
+- Use SkillIcons.dev with multiple icons in one line.
+- Do NOT place each icon on a new line.
+- Use GitHub-compatible Markdown only.
+- Make it look like a top 1% GitHub profile.
+- Generate only the complete README.md code.
