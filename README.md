@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Pimpalikar</h1>
 
-<h3 align="center">
-AI & Machine Learning Student • Python Developer • AI Enthusiast
-</h3>
+<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250§ion=header&text=Pratham%20Pimpalikar&fo ntSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Student%20%7C%20Python%20Developer&descAlignY=58"/> </p>
 
 <p align="center">
   <img src="./profile.png" width="180" alt="Pratham Pimpalikar"/>
