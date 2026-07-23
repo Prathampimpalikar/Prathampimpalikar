@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 I'm Pratham Pimpalikar</h1>
-
+<p align="center">
+  <img src="./profile.png" width="220" alt="Pratham Pimpalikar">
+</p>
 <h3 align="center">
 AI & Machine Learning Student • Python Developer • Future AI Engineer
 </h3>
