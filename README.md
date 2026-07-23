@@ -112,29 +112,7 @@ I love converting AI ideas into real-world applications.
 
 ![figma](https://skillicons.dev/icons?i=figma)
 
----
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Prathampalikar&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prathampalikar&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathampalikar&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=Prathampalikar&theme=tokyonight&row=1)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Prathampalikar&theme=tokyo-night)
-
----
 
 # 🚀 Featured Projects
 
