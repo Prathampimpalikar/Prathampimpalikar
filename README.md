@@ -121,14 +121,12 @@ Become an AI Engineer building intelligent products that solve real-world proble
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 📬 Smart Mailroom AI | AI-powered email classification and routing system |
-| 🚗 Driver Safety AI | Driver drowsiness detection using Computer Vision |
-| 🎓 Interactive Learning Mat | AI-powered educational software for children |
-| 📊 Social Media Trend Analysis | Machine Learning based sentiment analysis |
 
----
+- 📬 Smart Mailroom AI – AI-powered email classification and routing system.
+- 🚗 Driver Safety AI – Driver drowsiness detection using Computer Vision.
+- 🎓 Interactive Learning Mat – AI-powered educational software for children.
+- 📊 Social Media Trend Analysis – Machine Learning-based sentiment analysis.
+- 👁️ Machine Vision Lab – Computer Vision and Image Processing practicals using OpenCV.
 
 ## 🎯 Interests
 
